@@ -1,0 +1,377 @@
+{
+  "products": [
+    {
+      "id": 1196027,
+      "name": "Şampun MaxCare 2, 1000 ml",
+      "slugged_name": "shampun-maxcare-2-1000-ml-sh-301",
+      "category_id": 388,
+      "category": {
+        "id": 388,
+        "name": "Şampun"
+      },
+      "brand": "MaxCare",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/51ec0676-1a61-493b-97e0-df74722ce791.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/51ec0676-1a61-493b-97e0-df74722ce791.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/51ec0676-1a61-493b-97e0-df74722ce791.jpeg"
+      },
+      "default_offer": {
+        "uuid": "89ead384-03e4-4533-acfe-e662e64559c3",
+        "installment_enabled": true,
+        "max_installment_months": 12,
+        "product_offer_labels": [],
+        "old_price": 160,
+        "retail_price": 139,
+        "seller": {
+          "ext_id": "6a7a2733-9222-4396-a005-9a0018c60538",
+          "marketing_name": {
+            "id": 6288,
+            "name": "Party House"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/5397d14fc1ff9626f3bfe539fe0100eb.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/51ec0676-1a61-493b-97e0-df74722ce791.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/51ec0676-1a61-493b-97e0-df74722ce791.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/51ec0676-1a61-493b-97e0-df74722ce791.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-14"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 1187390,
+      "name": "Çexol 1021 with MagSafe Apple iPhone 16 Pro Max üçün Black",
+      "slugged_name": "chexol-magsafe-case-apple-iphone-16-pro-max-uchun-black-bycase1021",
+      "category_id": 10,
+      "category": {
+        "id": 10,
+        "name": "Smartfonlar və mobil telefonlar üçün çexollar"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "21f9e595-5d71-4db9-81dd-d1948e8a52bb",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 90,
+        "retail_price": 54.55,
+        "seller": {
+          "ext_id": "7ad67240-b1be-4ce3-a111-fa55efdfafdb",
+          "marketing_name": {
+            "id": 13002,
+            "name": "Ümid Telecom"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/c691fb04b2d8e5991e42e7703c4b10b9.jpg"
+          },
+          "vat_payer": false,
+          "rating": 98,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/33e2dbd2-f8e9-4aa6-8ac3-643e72d27a8d.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-14"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 674165,
+      "name": "Uşaq arabası Kidilo 609, narıncı",
+      "slugged_name": "ushaq-arabasi-kidilo-609-narinci",
+      "category_id": 911,
+      "category": {
+        "id": 911,
+        "name": "Uşaq arabaları"
+      },
+      "brand": "Kidilo",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/674165-039ea01689e2e04e1d510ea266cbcb25.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/674165-039ea01689e2e04e1d510ea266cbcb25.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/674165-039ea01689e2e04e1d510ea266cbcb25.jpg"
+      },
+      "default_offer": {
+        "uuid": "24dbabe3-ac70-4fe6-9c87-4e701dcf4f5c",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 720,
+        "retail_price": 636.82,
+        "seller": {
+          "ext_id": "c6d341a4-b052-4867-a58c-c3d2a02231d5",
+          "marketing_name": {
+            "id": 2874,
+            "name": "ABC store"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/147fd44b0a7caa5ee9d3910db97b5287.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/674165-039ea01689e2e04e1d510ea266cbcb25.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/674165-039ea01689e2e04e1d510ea266cbcb25.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/674165-039ea01689e2e04e1d510ea266cbcb25.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/674165-9ec789b3c79146ccb6825e751599c2fe.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/674165-9ec789b3c79146ccb6825e751599c2fe.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/674165-9ec789b3c79146ccb6825e751599c2fe.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 739894,
+      "name": "Perforator DW-2601",
+      "slugged_name": "perforator-dewalt-dw-2601",
+      "category_id": 2635,
+      "category": {
+        "id": 2635,
+        "name": "Perforatorlar"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg"
+      },
+      "default_offer": {
+        "uuid": "4604bc62-9757-425c-9cf0-ac87daa6480f",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 441.46,
+        "retail_price": 65.96,
+        "seller": {
+          "ext_id": "b6a545f5-5be3-40b9-bf73-4d4195cbae31",
+          "marketing_name": {
+            "id": 8105,
+            "name": "Dəmir Yumruq İnşaat"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/3be2af35b333f5ab24132734ab153495.jpg"
+          },
+          "vat_payer": false,
+          "rating": 98,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/739894-bc0e1eb1a35d92652e2f8d9ff0c79f52.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/739894-1527151e111bb7914bc71707d4953ccc.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/739894-1527151e111bb7914bc71707d4953ccc.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/739894-1527151e111bb7914bc71707d4953ccc.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/739894-5a8d65bfa4a1845e206f7935c0aebece.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/739894-5a8d65bfa4a1845e206f7935c0aebece.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/739894-5a8d65bfa4a1845e206f7935c0aebece.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-16"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-16"
+        }
+      ]
+    },
+    {
+      "id": 1212452,
+      "name": "Qadın günəş eynəyi NN Optic Eyewear NN86007 C3",
+      "slugged_name": "qadin-gun-eyneyi-nn-optic-eyewear-86007-c3-nn86007-c3",
+      "category_id": 2289,
+      "category": {
+        "id": 2289,
+        "name": "Qadın gün eynəkləri"
+      },
+      "brand": "NN OPTIC EYEWEAR",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "f1d35169-e3b1-4749-b901-9f532eaf89fd",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 189.99,
+        "retail_price": 56.99,
+        "seller": {
+          "ext_id": "7f97cae5-07d0-4571-b249-f440250e9a42",
+          "marketing_name": {
+            "id": 15958,
+            "name": "NN OPTIC EYEWEAR"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/da9c6889052caa2ed771cab98594fd80.jpg"
+          },
+          "vat_payer": false,
+          "rating": 91,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/99bd7ef0-ba68-40ff-8499-776a102a064d.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/e0e218a0-9992-4d5e-9c46-81e268e0ed08.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/e0e218a0-9992-4d5e-9c46-81e268e0ed08.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/e0e218a0-9992-4d5e-9c46-81e268e0ed08.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-14"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": 10000
+  }
+}

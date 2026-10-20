@@ -1,0 +1,420 @@
+* {
+    box-sizing: border-box;
+    outline: none !important;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.bg-brand {
+    --tw-bg-opacity: 1;
+    background-color: #ea207e;
+    background-color: rgba(234, 32, 126, var(--tw-bg-opacity, 1));
+}
+
+@media (min-width: 1313px) {
+    .LayoutWithFooter {
+        bottom: 0;
+        left: 0;
+        overflow-y: auto;
+        position: fixed;
+        right: 0;
+        top: 0;
+    }
+}
+
+.custom-pagination {
+    position: absolute;
+    bottom: 20px !important;
+    left: 50% !important;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    padding: 6px 14px !important;
+    display: flex;
+    gap: 12px;
+    z-index: 10;
+    width: auto !important;
+}
+
+@media (max-width: 1023px) {
+    .custom-pagination {
+        bottom: 10px !important;
+        padding: 4px 10px !important;
+        gap: 8px !important;
+    }
+    .custom-pagination .swiper-pagination-bullet {
+        width: 6px !important;
+        height: 6px !important;
+    }
+}
+
+.custom-pagination .swiper-pagination-bullet {
+    background: white;
+    opacity: 1;
+    margin: 0 !important;
+    width: 8px;
+    height: 8px;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+    background: #ea207e;
+}
+
+.menu-scrollbar::-webkit-scrollbar {
+    width: 4px;
+}
+
+.menu-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.menu-scrollbar::-webkit-scrollbar-thumb {
+    background: #e5e7eb;
+    border-radius: 4px;
+}
+
+.menu-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #d1d5db;
+}
+
+.MPProductInfo {
+    width: 100%;
+    background: #ffffff;
+}
+
+.MPProductInfo .Wrapper {
+    max-width: 1312px;
+    margin: 0 auto;
+    padding: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+@media (min-width: 1024px) {
+    .MPProductInfo .Wrapper {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 32px;
+    }
+}
+
+.MPProductSlider {
+    display: flex;
+    gap: 16px;
+    width: 100%;
+}
+
+.MPProductSlider-Thumbnails {
+    display: none;
+}
+
+@media (min-width: 1024px) {
+    .MPProductSlider {
+        width: 440px;
+        flex-shrink: 0;
+    }
+    .MPProductSlider-Thumbnails {
+        display: block;
+        width: 64px;
+        flex-shrink: 0;
+    }
+}
+
+.MPProductSlider-Thumbnails-Thumbnail {
+    width: 64px;
+    height: 64px;
+    border-radius: 8px;
+    border: 2px solid #ea207e;
+    overflow: hidden;
+    padding: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    transition: border-color 0.2s;
+}
+
+.MPProductSlider-Thumbnails-Thumbnail img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+.MPProductSlider-Main {
+    flex: 1;
+    position: relative;
+    border: 1px solid #f1f2f5;
+    border-radius: 12px;
+    padding: 24px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    min-height: 380px;
+}
+
+@media (max-width: 1023px) {
+    .MPProductSlider-Main {
+        border: none;
+        padding: 10px 0;
+        min-height: 280px;
+    }
+}
+
+.MPProductSlider-Main-Image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.MPProductSlider-Main-Image img {
+    max-width: 100%;
+    max-height: 360px;
+    object-fit: contain;
+}
+
+@media (max-width: 1023px) {
+    .MPProductSlider-Main-Image img {
+        max-height: 320px;
+    }
+}
+
+.MPProductSlider-ListLabel {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10;
+}
+
+@media (min-width: 1024px) {
+    .MPProductSlider-ListLabel {
+        top: 20px;
+        right: 20px;
+    }
+}
+
+.MPProductMainDesc {
+    flex: 1;
+    min-width: 0;
+}
+
+.MPProductMainDesc h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #1e244d;
+    line-height: 1.35;
+    margin-bottom: 12px;
+}
+
+.MPProductMainDesc-ProductCode-Favorite {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #f1f2f5;
+    margin-bottom: 20px;
+}
+
+.MPProductMainDesc-ProductCode {
+    font-size: 13px;
+    color: #9497ad;
+}
+
+.MPAddToFavorites {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    color: #9497ad;
+    font-size: 13px;
+    cursor: pointer;
+    transition: color 0.2s;
+    user-select: none;
+}
+
+.MPAddToFavorites:hover,
+.MPAddToFavorites.active {
+    color: #ea207e;
+}
+
+.MPProductPriceOffers {
+    width: 100%;
+}
+
+@media (min-width: 1024px) {
+    .MPProductPriceOffers {
+        width: 360px;
+        flex-shrink: 0;
+        padding-left: 24px;
+        border-left: 1px solid #e7e8ed;
+    }
+}
+
+.MPProductMainDesc-AddToCart-BuyOnCredit button.AddToCart {
+    width: 100%;
+    background-color: #ea207e;
+    color: #ffffff;
+    padding: 13px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+    transition: background-color 0.2s, transform 0.1s;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(234, 32, 126, 0.2);
+}
+
+.MPProductMainDesc-AddToCart-BuyOnCredit button.AddToCart:hover {
+    background-color: #d8146f;
+}
+
+.MPProductMainDesc-AddToCart-BuyOnCredit button.AddToCart:active {
+    transform: scale(0.98);
+}
+
+.MPProductPricesOtherSellers {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid #f1f2f5;
+}
+
+.MPProductPricesOtherSellers-Title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #1e244d;
+    margin-bottom: 12px;
+}
+
+.MPProductPricesOtherSellers-AddCart {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #fff0f6;
+    color: #ea207e;
+    border: 1px solid #ffd0e3;
+    padding: 6px 12px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.MPProductPricesOtherSellers-AddCart:hover {
+    background-color: #ea207e;
+    color: #ffffff;
+}
+
+.MPProductContent {
+    background: #ffffff;
+    border-top: 1px solid #f1f2f5;
+}
+
+.MPProductContent .Wrapper {
+    max-width: 1312px;
+    margin: 0 auto;
+    padding: 0 16px 48px;
+}
+
+.MPProductDescription-TabsWrapper {
+    display: flex;
+    gap: 32px;
+    border-bottom: 1px solid #e7e8ed;
+    overflow-x: auto;
+    overflow-y: hidden !important;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.MPProductDescription-TabsWrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.MPProductDescription-TabsWrapper a {
+    padding: 16px 4px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #50557a;
+    white-space: nowrap;
+    position: relative;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.MPProductDescription-TabsWrapper a.active,
+.MPProductDescription-TabsWrapper a:hover {
+    color: #1e244d;
+}
+
+.MPProductDescription-TabsWrapper a.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background-color: #ea207e;
+    border-radius: 3px 3px 0 0;
+}
+
+.MPProductDescription-Content {
+    padding-top: 32px;
+}
+
+.MPProductDescriptionContentFeatures h2,
+.MPProductDescriptionContentInfo h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1e244d;
+    margin-bottom: 16px;
+}
+
+.Features-Table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Features-Table tr {
+    border-bottom: 1px solid #f1f2f5;
+}
+
+.Features-Table td {
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+.Features-Table td:first-child {
+    color: #9497ad;
+    width: 40%;
+}
+
+.Features-Table td:last-child {
+    color: #1e244d;
+    font-weight: 600;
+}
+
+.line {
+    height: 1px;
+    background-color: #f1f2f5;
+    margin: 32px 0;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+@media (max-width: 1023px) {
+    body {
+        padding-bottom: 64px;
+    }
+}

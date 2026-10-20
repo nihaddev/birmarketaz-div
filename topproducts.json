@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Yataq dəsti Sahara SHA-0000458, yorğan üzü 200x220 sm, mələfə...",
+      "slugged_name": "yataq-desti-sahara-sha-0000458",
+      "brand": "Sahara",
+      "main_img": {
+        "small": "https://strgimgr.umico.az/img/product/840/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg"
+      },
+      "default_offer": {
+        "retail_price": 19.94,
+        "old_price": 45.00,
+        "discount_percent": 56,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "1.02 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Ən çox satılan", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 25
+      },
+      "delivery": "20 oktyabr",
+      "official_seller": false
+    },
+    {
+      "id": 2,
+      "name": "Protein IronMaxx Whey Zero A-KFM-41804-09-22",
+      "slugged_name": "protein-ironmaxx-whey-zero",
+      "brand": "IronMaxx",
+      "main_img": {
+        "small": "https://www.ironmaxx.de/cdn/shop/files/IronMaxx_Whey_Zero_2270g_Milk_Chocolate_Persp_2Kopie.png",
+        "medium": "https://www.ironmaxx.de/cdn/shop/files/IronMaxx_Whey_Zero_2270g_Milk_Chocolate_Persp_2Kopie.png"
+      },
+      "default_offer": {
+        "retail_price": 230.00,
+        "old_price": 250.00,
+        "discount_percent": 8,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "11.79 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Ən çox satılan", "color": "ea207e" },
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 13
+      },
+      "delivery": "Sabah",
+      "official_seller": true
+    },
+    {
+      "id": 3,
+      "name": "Televizor IFFalcon 32S55",
+      "slugged_name": "televizor-iffalcon-32s55",
+      "brand": "iFFALCON",
+      "partner_badge": "PARTNER PREMIUM",
+      "main_img": {
+        "small": "https://aws-obg-image-lb-1.tcl.com/content/dam/iffalcon/global/products/tv/s-series/s55/id/50-1.png",
+        "medium": "https://aws-obg-image-lb-1.tcl.com/content/dam/iffalcon/global/products/tv/s-series/s55/id/50-1.png"
+      },
+      "default_offer": {
+        "retail_price": 249.00,
+        "old_price": 529.00,
+        "discount_percent": 53,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "12.77 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" },
+        { "text": "Ən çox satılan", "color": "ea207e" },
+        { "text": "Eksklüziv", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 28
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    },
+    {
+      "id": 4,
+      "name": "Qantel, ştanq və çəki daşı dəsti 655334416, 25 x 25 kq",
+      "slugged_name": "qantel-shtanq-ve-cheki-dashi-desti",
+      "brand": "No Brand",
+      "main_img": {
+        "small": "https://strgimgr.umico.az/img/product/840/01f11a43-be68-450f-a494-b2e11894d82b.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/01f11a43-be68-450f-a494-b2e11894d82b.jpeg"
+      },
+      "default_offer": {
+        "retail_price": 139.50,
+        "old_price": 200.00,
+        "discount_percent": 30,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "7.15 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Ən çox satılan", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 41
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    },
+    {
+      "id": 5,
+      "name": "Uşaq velosipedi Stels MODEL 2027 20, qara",
+      "slugged_name": "ushaq-velosipedi-stels-model-2027-20-qara",
+      "brand": "Stels",
+      "main_img": {
+        "small": "https://www.velosklad.ru/i/models/big/13920.jpg",
+        "medium": "https://www.velosklad.ru/i/models/big/13920.jpg"
+      },
+      "default_offer": {
+        "retail_price": 139.99,
+        "old_price": 213.02,
+        "discount_percent": 34,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "7.18 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Ən çox satılan", "color": "ea207e" },
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 13
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    }
+  ]
+}

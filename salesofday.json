@@ -1,0 +1,399 @@
+{
+  "products": [
+    {
+      "id": 2910948,
+      "name": "Yağ qızdırıcısı Kumtel LN.102-303/11 2300 Vt Ağ",
+      "slugged_name": "yag-qizdiricisi-kumtel-ln-102-303-11-2300-vt-ag",
+      "category_id": 129,
+      "category": {
+        "id": 129,
+        "name": "Yağ qızdırıcıları"
+      },
+      "brand": "Kumtel",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "9935bbe8-b31d-47d6-a376-33c2cc6a9daa",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 299,
+        "retail_price": 157.44,
+        "seller": {
+          "ext_id": "370790bd-73b5-4557-bf4e-639ce23c337c",
+          "marketing_name": {
+            "id": 13126,
+            "name": "Line Electronics"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/c377ec5070ea73a569ad093b8f1fc94c.jpg"
+          },
+          "vat_payer": false,
+          "rating": 97,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-10-09T00:00:00.000Z",
+        "discount_effective_end_date": "2026-10-10T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "40C4FF",
+          "id": 41509607,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        }
+      ],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/ef430f7b-6f8e-4a93-8595-608d191e1d2d.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/70f9c47f-f60c-4bc9-94ef-9595157811a3.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/70f9c47f-f60c-4bc9-94ef-9595157811a3.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/70f9c47f-f60c-4bc9-94ef-9595157811a3.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/245230b2-02c6-42e0-9eb9-7997ec0c923e.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/245230b2-02c6-42e0-9eb9-7997ec0c923e.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/245230b2-02c6-42e0-9eb9-7997ec0c923e.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a2f76c1c-75b6-40db-a3f3-44b8d44eea0f.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a2f76c1c-75b6-40db-a3f3-44b8d44eea0f.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a2f76c1c-75b6-40db-a3f3-44b8d44eea0f.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/b999062d-de18-40b3-b176-cdb5f8843fac.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/b999062d-de18-40b3-b176-cdb5f8843fac.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/b999062d-de18-40b3-b176-cdb5f8843fac.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 2789085,
+      "name": "Vakuum qablaşdırıcı Kumtel VP053-HVSE-01 125 W qara",
+      "slugged_name": "vakuum-qablashdirici-kumtel-vp053-hvse-01-125-w-qara",
+      "category_id": 163,
+      "category": {
+        "id": 163,
+        "name": "Vakuum qablaşdırıcılar"
+      },
+      "brand": "Kumtel",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg"
+      },
+      "default_offer": {
+        "uuid": "a80123a0-078a-4abb-8c09-c6941532f8cd",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 100,
+        "retail_price": 54.7,
+        "seller": {
+          "ext_id": "4774991c-0cd0-4930-bcee-9aa257218475",
+          "marketing_name": {
+            "id": 15723,
+            "name": "VİP ZONE"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/8c92fd8607f6ec7289c3b9065e084abd.jpg"
+          },
+          "vat_payer": false,
+          "rating": 97,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-10-10T00:00:00.000Z",
+        "discount_effective_end_date": "2026-10-11T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 1,
+        "score_count": 1
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/8b494e62-afd1-4864-b0fa-af85d3280d3c.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 1344358,
+      "name": "Süni güllərdən çələng, 120x80 sm",
+      "slugged_name": "eklil-suni-gullerden-yigilma-120-60",
+      "category_id": 1097,
+      "category": {
+        "id": 1097,
+        "name": "Süni güllər və meyvələr"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg"
+      },
+      "default_offer": {
+        "uuid": "5f719632-a307-4757-9b1a-12c2495e6650",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 0,
+        "retail_price": 71.36,
+        "seller": {
+          "ext_id": "be222f30-453f-4a94-a818-ab15d0f8ce50",
+          "marketing_name": {
+            "id": 6999,
+            "name": "Hər şey burada"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/e76d43731fd8df2f5f2bc81ab855f4a5.png"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-10-10T00:00:00.000Z",
+        "discount_effective_end_date": "2026-10-11T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/881e42a7-4d9c-4c55-bc1e-a8a539c61bc3.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-14"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 1666320,
+      "name": "Bağ xəkəndazları, çiçəklər üçün kiçik bel, plastik, qara/yaşıl - 5551500017296",
+      "slugged_name": "bag-xekendazlari-chichekler-uchun-kichik-bel-plastik-qara-yashil-5551500017296",
+      "category_id": 1256,
+      "category": {
+        "id": 1256,
+        "name": "Bağ xəkəndazları"
+      },
+      "brand": "",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg"
+      },
+      "default_offer": {
+        "uuid": "a2706734-2e74-48ca-ba81-580b30c3e7a7",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 4.99,
+        "retail_price": 2.5,
+        "seller": {
+          "ext_id": "a75d4f1a-9e44-479b-a7c7-51d5c8ff8850",
+          "marketing_name": {
+            "id": 1034,
+            "name": "Evimiz"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/0b688b47d52bb5917d8e40a3a1396879.jpeg"
+          },
+          "vat_payer": true,
+          "rating": 92,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-06-13T00:00:00.000Z",
+        "discount_effective_end_date": "2026-12-31T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a0723930-1c37-4e04-b02d-50243d2c32d1.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12",
+          "price": 1.99
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "id": 474866,
+      "name": "Ətçəkən MA-C 4025-83",
+      "slugged_name": "etcheken-ma-c-4025-83",
+      "category_id": 1020,
+      "category": {
+        "id": 1020,
+        "name": "Əl ətçəkənləri"
+      },
+      "brand": "MA-C",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/474866-9f38791e6c444b241cad6e606d1e9390.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/474866-9f38791e6c444b241cad6e606d1e9390.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/474866-9f38791e6c444b241cad6e606d1e9390.jpg"
+      },
+      "default_offer": {
+        "uuid": "6a0e6e82-37f1-463c-b714-d01e0faed683",
+        "installment_enabled": true,
+        "max_installment_months": 12,
+        "product_offer_labels": [],
+        "old_price": 129,
+        "retail_price": 40.15,
+        "seller": {
+          "ext_id": "7fc17ab7-0c61-41c8-b2c1-a6d0f8a7030e",
+          "marketing_name": {
+            "id": 15318,
+            "name": "RSelectronics"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-10-10T00:00:00.000Z",
+        "discount_effective_end_date": "2026-10-11T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 1,
+        "score_count": 1
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/474866-9f38791e6c444b241cad6e606d1e9390.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/474866-9f38791e6c444b241cad6e606d1e9390.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/474866-9f38791e6c444b241cad6e606d1e9390.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13",
+          "price": 3.99
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": 7344
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "products": [
+    {
+      "id": 1269920,
+      "name": "Qab-qacaq dəsti Bonera Nile, qranit, qara/qızılı, 7 parça",
+      "slugged_name": "qab-qacaq-desti-bonera-nile-qranit-qara-qizili-7-parcha",
+      "brand": "Bonera",
+      "partner_badge": "PARTNER PREMIUM",
+      "main_img": {
+        "small": "https://strgimgr.b-cdn.net/img/product/280/9c2c3f7f-4cc3-4247-ba10-255e8bcd08df.jpeg?width=280&height=280",
+        "medium": "https://strgimgr.b-cdn.net/img/product/280/9c2c3f7f-4cc3-4247-ba10-255e8bcd08df.jpeg?width=280&height=280"
+      },
+      "default_offer": {
+        "retail_price": 163.20,
+        "old_price": 277.44,
+        "discount_percent": 41,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "8.37 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 4.7,
+        "session_count": 16
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    },
+    {
+      "id": 801367,
+      "name": "Qazan dəsti Unique, qranit, 20/24/28/28/32 sm, 10 parça, qəhvəyi",
+      "slugged_name": "qazan-desti-unique-qranit-20-24-28-28-32-sm-10-parcha-qehveyi",
+      "brand": "Unique",
+      "main_img": {
+        "small": "https://strgimgr.b-cdn.net/img/product/280/9737a9cd-03f0-4991-bb85-06fae306f23f.jpeg?width=280&height=280",
+        "medium": "https://strgimgr.b-cdn.net/img/product/280/9737a9cd-03f0-4991-bb85-06fae306f23f.jpeg?width=280&height=280"
+      },
+      "default_offer": {
+        "retail_price": 198.99,
+        "old_price": 220.00,
+        "discount_percent": 10,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "10.20 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 4.6,
+        "session_count": 10
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    },
+    {
+      "id": 914930,
+      "name": "Qazan dəsti ZTW-QZ29, 16/18/20/22/24 sm, mina, qara",
+      "slugged_name": "qazan-desti-ztw-qz29-16-18-20-22-24-sm-mina-qara",
+      "brand": "No Brand",
+      "main_img": {
+        "small": "https://strgimgr.b-cdn.net/img/product/280/87353ed8-2498-4a5f-b389-98440bb84996.jpeg?width=280&height=280",
+        "medium": "https://strgimgr.b-cdn.net/img/product/280/87353ed8-2498-4a5f-b389-98440bb84996.jpeg?width=280&height=280"
+      },
+      "default_offer": {
+        "retail_price": 40.00,
+        "old_price": 90.00,
+        "discount_percent": 56,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "2.05 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 4.2,
+        "session_count": 22
+      },
+      "delivery": "Sabah",
+      "official_seller": false
+    },
+    {
+      "id": 956848,
+      "name": "Tava dəsti ZTW-TDQ5P, qranit/şüşə, qara, 20/22/24/26/28 sm, 5 əd",
+      "slugged_name": "tava-desti-ztw-tdq5p-qranit-shushe-qara-20-22-24-26-28-sm-5-ed",
+      "brand": "No Brand",
+      "main_img": {
+        "small": "https://strgimgr.b-cdn.net/img/product/280/72bbbb1d-1913-420b-9743-f38530779349.jpeg?width=280&height=280",
+        "medium": "https://strgimgr.b-cdn.net/img/product/280/72bbbb1d-1913-420b-9743-f38530779349.jpeg?width=280&height=280"
+      },
+      "default_offer": {
+        "retail_price": 189.00,
+        "old_price": 275.00,
+        "discount_percent": 31,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "9.69 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "session_count": 24
+      },
+      "delivery": "20 oktyabr",
+      "official_seller": false
+    },
+    {
+      "id": 1105071,
+      "name": "Qazan dəsti VK SHA-00005936, 5 əd, qranit, qəhvəyi, 20/24/28/32 sm",
+      "slugged_name": "qazan-desti-vk-sha-00005936-5-ed-qranit-qehveyi-20-24-28-32-sm",
+      "brand": "VK",
+      "main_img": {
+        "small": "https://strgimgr.b-cdn.net/img/product/280/9ddcec13-a3df-4d44-9aa3-df100cca4925.jpeg?width=280&height=280",
+        "medium": "https://strgimgr.b-cdn.net/img/product/280/9ddcec13-a3df-4d44-9aa3-df100cca4925.jpeg?width=280&height=280"
+      },
+      "default_offer": {
+        "retail_price": 239.99,
+        "old_price": 300.00,
+        "discount_percent": 20,
+        "installment_enabled": true,
+        "max_installment_months": 24,
+        "installment_text": "12.30 ₼ x 24 ay"
+      },
+      "product_labels": [
+        { "text": "Yenilik", "color": "ea207e" }
+      ],
+      "ratings": {
+        "rating_value": 4.2,
+        "session_count": 16
+      },
+      "delivery": "19 oktyabr",
+      "official_seller": false
+    }
+  ]
+}

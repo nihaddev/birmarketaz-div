@@ -1,0 +1,2036 @@
+{
+  "products": [
+    {
+      "id": 1038002,
+      "name": "Avtomobil üçün alətlər dəsti New Tools, 46 parça",
+      "slugged_name": "avtomobil-uchun-aletler-desti-46-1-keysde",
+      "category_id": 2761,
+      "category": {
+        "id": 2761,
+        "name": "Alətlər dəstləri"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg"
+      },
+      "default_offer": {
+        "uuid": "08f1a782-c34c-4068-b5bc-257a6c49ee12",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 9,
+        "retail_price": 8.24,
+        "seller": {
+          "ext_id": "6ce5eaf0-1637-431f-aefa-ce437a7c74db",
+          "marketing_name": {
+            "id": 15407,
+            "name": "TopSeçim"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 19812899,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        },
+        {
+          "color": "40C4FF",
+          "id": 41639506,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.5,
+        "assessment_id": 0,
+        "session_count": 664,
+        "score_count": 372,
+        "review_count": 292
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/1f2fa3a4-563c-4c84-9be0-9e9be8dee100.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/d980c58d-17f5-42b6-baab-7eef495317eb.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/d980c58d-17f5-42b6-baab-7eef495317eb.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/d980c58d-17f5-42b6-baab-7eef495317eb.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/3f4f654d-cd06-44ef-b67c-3cc9c70cac8f.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/3f4f654d-cd06-44ef-b67c-3cc9c70cac8f.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/3f4f654d-cd06-44ef-b67c-3cc9c70cac8f.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/61fcbf08-a6aa-45b6-a41a-113bdcab2efe.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/61fcbf08-a6aa-45b6-a41a-113bdcab2efe.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/61fcbf08-a6aa-45b6-a41a-113bdcab2efe.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/04f1274c-17a0-44c5-8c52-1e5d51d892a4.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/04f1274c-17a0-44c5-8c52-1e5d51d892a4.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/04f1274c-17a0-44c5-8c52-1e5d51d892a4.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/14194f60-a407-486a-941c-7e639654a9e8.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/14194f60-a407-486a-941c-7e639654a9e8.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/14194f60-a407-486a-941c-7e639654a9e8.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/151b1159-f26b-4b1e-8fd0-bd3cb77e9a31.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/151b1159-f26b-4b1e-8fd0-bd3cb77e9a31.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/151b1159-f26b-4b1e-8fd0-bd3cb77e9a31.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/fab8d48d-c9f6-4431-8065-47940172bd48.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/fab8d48d-c9f6-4431-8065-47940172bd48.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/fab8d48d-c9f6-4431-8065-47940172bd48.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12",
+          "price": 1.99
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "id": 347902,
+      "name": "Kreatin IronMaxx Creatine Powder, 300 q",
+      "slugged_name": "kreatin-ironmaxx-creatine-powder-300-q",
+      "category_id": 575,
+      "category": {
+        "id": 575,
+        "name": "Kreatin"
+      },
+      "brand": "IronMaxx",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg"
+      },
+      "default_offer": {
+        "uuid": "f391956b-34a3-4bb9-8dd9-bfb4d7dba663",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 140,
+        "retail_price": 55,
+        "seller": {
+          "ext_id": "301daa7b-a3dd-4855-b48d-0d1cf123c66e",
+          "marketing_name": {
+            "id": 3889,
+            "name": "ironmaxx Idman qidaları"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d63b6808f19035f26f8e1ac2c0c1764f.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "40C4FF",
+          "id": 41466740,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        },
+        {
+          "color": "7C62E3",
+          "id": 18254758,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 2,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.7,
+        "assessment_id": 0,
+        "session_count": 55,
+        "score_count": 36,
+        "review_count": 19
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a22bd70d-b0e6-4ad4-a98e-4b153ab6810c.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/30939d0a-5bab-48b9-93e5-061289e611c0.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/30939d0a-5bab-48b9-93e5-061289e611c0.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/30939d0a-5bab-48b9-93e5-061289e611c0.jpeg"
+        }
+      ],
+      "card_type": "private",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 347885,
+      "name": "Qeyner IronMaxx Gainer Professional Chocolate, 2 kq",
+      "slugged_name": "qeyner-ironmaxx-gainer-professional-chocolate-2-kq",
+      "category_id": 570,
+      "category": {
+        "id": 570,
+        "name": "Qeynerlər"
+      },
+      "brand": "IronMaxx",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg"
+      },
+      "default_offer": {
+        "uuid": "abc43451-447b-41ce-bbac-08cc57594a47",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 180,
+        "retail_price": 85,
+        "seller": {
+          "ext_id": "301daa7b-a3dd-4855-b48d-0d1cf123c66e",
+          "marketing_name": {
+            "id": 3889,
+            "name": "ironmaxx Idman qidaları"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d63b6808f19035f26f8e1ac2c0c1764f.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "40C4FF",
+          "id": 41466739,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        },
+        {
+          "color": "7C62E3",
+          "id": 20178183,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 2,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.8,
+        "assessment_id": 0,
+        "session_count": 48,
+        "score_count": 34,
+        "review_count": 14
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/aeff681d-dc71-45b9-872f-da5423b37f4e.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/dba7e86c-8718-49bd-9e8f-aae67bc52d85.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/dba7e86c-8718-49bd-9e8f-aae67bc52d85.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/dba7e86c-8718-49bd-9e8f-aae67bc52d85.jpeg"
+        }
+      ],
+      "card_type": "private",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 826911,
+      "name": "Şin Winda WP16 195/65 R15 95H",
+      "slugged_name": "shin-winda-wp16-195-65-r15-95h",
+      "category_id": 1944,
+      "category": {
+        "id": 1944,
+        "name": "Şinlər"
+      },
+      "brand": "Winda",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/826911-451fb308bd65f91119252d2210933fd2.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/826911-451fb308bd65f91119252d2210933fd2.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/826911-451fb308bd65f91119252d2210933fd2.jpg"
+      },
+      "default_offer": {
+        "uuid": "ecc093e6-9992-46b9-86f7-1932813559c5",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 90,
+        "retail_price": 79.99,
+        "seller": {
+          "ext_id": "30103a7e-d1ef-4dfe-a0d1-77327d15cdd1",
+          "marketing_name": {
+            "id": 12103,
+            "name": "Enerjipark"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 96,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 19238532,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        },
+        {
+          "color": "40C4FF",
+          "id": 41391561,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.9,
+        "assessment_id": 0,
+        "session_count": 76,
+        "score_count": 42,
+        "review_count": 34
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/826911-451fb308bd65f91119252d2210933fd2.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/826911-451fb308bd65f91119252d2210933fd2.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/826911-451fb308bd65f91119252d2210933fd2.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 960535,
+      "name": "Plastik qantel dəsti Qantel Baku 5876_0004, 2 x 5 kq, 2 x 10 kq, 2 x 15 kq",
+      "slugged_name": "qantel-desti-3-lu-set-5-x-5-kq-10-x-10-kq-15-x-15-kq-plastik-6-eded",
+      "category_id": 529,
+      "category": {
+        "id": 529,
+        "name": "Qantellər, çəki daşları, ştanqlar və disklər"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg"
+      },
+      "default_offer": {
+        "uuid": "add88553-c7a0-412b-aa28-e735424e9c1d",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 187,
+        "retail_price": 97.99,
+        "seller": {
+          "ext_id": "79630a7e-f063-4916-b0b7-733babe4ff00",
+          "marketing_name": {
+            "id": 5660,
+            "name": "Qantel Baku"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/7ddbe332eddb756c5e8dc6bc8b58dad9.png"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 24654825,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        },
+        {
+          "color": "40C4FF",
+          "id": 41953954,
+          "image_url": "",
+          "label_id": 1,
+          "name": "Новинка",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Yenilik"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.8,
+        "assessment_id": 0,
+        "session_count": 79,
+        "score_count": 27,
+        "review_count": 52
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/ba0fbcca-ee65-4a53-ac11-5f57daf154cb.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/bf0b7a13-218f-4252-ad51-6df92b15b3e8.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/bf0b7a13-218f-4252-ad51-6df92b15b3e8.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/bf0b7a13-218f-4252-ad51-6df92b15b3e8.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/f6feac87-03c8-4a69-8952-f2b4ce66f263.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/f6feac87-03c8-4a69-8952-f2b4ce66f263.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/f6feac87-03c8-4a69-8952-f2b4ce66f263.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/780e988b-e622-40a2-8936-50aa9bfed018.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/780e988b-e622-40a2-8936-50aa9bfed018.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/780e988b-e622-40a2-8936-50aa9bfed018.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a3b66bf5-1883-4cad-bca6-4a9b359b24ab.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a3b66bf5-1883-4cad-bca6-4a9b359b24ab.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a3b66bf5-1883-4cad-bca6-4a9b359b24ab.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 825826,
+      "name": "Yataq dəsti Sahara SHA-0000458, yorğan üzü 230x240 sm, mələfə 200x220 sm, 2 əd yastıq üzü 50x70 sm, ikinəfərlik, satin, rəngbərəng",
+      "slugged_name": "yataq-desti-sahara-sha-0000458-yorgan-uzu-230x240-sm-melefe-200x220-sm-2-ed-yastiq-uzu-50x70-sm-ikineferlik-satin-rengbereng",
+      "category_id": 940,
+      "category": {
+        "id": 940,
+        "name": "Yataq dəstləri"
+      },
+      "brand": "Sahara",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg"
+      },
+      "default_offer": {
+        "uuid": "7395200a-2268-4314-9185-a2eb6019d0d6",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 45,
+        "retail_price": 19.94,
+        "seller": {
+          "ext_id": "c39e710a-0303-41bc-9243-10d9b9692354",
+          "marketing_name": {
+            "id": 15439,
+            "name": "SAHARA COLLECTION"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 95,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 40889375,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.6,
+        "assessment_id": 0,
+        "session_count": 25,
+        "score_count": 13,
+        "review_count": 12
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/9d85f69d-4c52-4cd5-8144-b21da0175e18.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/54d78d79-8302-47e8-a23a-c0893ec66354.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/54d78d79-8302-47e8-a23a-c0893ec66354.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/54d78d79-8302-47e8-a23a-c0893ec66354.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "id": 450571,
+      "name": "Şəbəkə enerji toplama cihazı Apple 20W USB-C Power Adapter (Rəsmi zəmanət)",
+      "slugged_name": "shebeke-enerji-toplama-cihazi-apple-20w-usb-c-power-adapter-mhje3-ag",
+      "category_id": 97,
+      "category": {
+        "id": 97,
+        "name": "Enerji toplama cihazları və adapterlər"
+      },
+      "brand": "Apple",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg"
+      },
+      "default_offer": {
+        "uuid": "9eac26cd-84f1-402c-a657-da6ba620069a",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 79,
+        "retail_price": 55,
+        "seller": {
+          "ext_id": "2166e74a-d844-4c8d-a80f-423f95079a17",
+          "marketing_name": {
+            "id": 7908,
+            "name": "Birmarket.az"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/32e1599b42555bf3dbae2eba71ef461d.png"
+          },
+          "vat_payer": true,
+          "rating": 95,
+          "role_name": "FBU"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 3620561,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        },
+        {
+          "color": "",
+          "id": 3590850,
+          "image_url": "https://strgimgr.umico.az/dcmimages/Images/garantiya_apple_az.png",
+          "label_id": 14,
+          "name": "garantiya_apple",
+          "position": 0,
+          "rule_type": "photo",
+          "show_in_see_also_products": false,
+          "text": ""
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.9,
+        "assessment_id": 0,
+        "session_count": 427,
+        "score_count": 243,
+        "review_count": 184
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/db3613c9-4100-4bf7-b70c-88e8b006d2de.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/eff8bec6-e572-4bfd-b49f-46a11154abf0.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/eff8bec6-e572-4bfd-b49f-46a11154abf0.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/eff8bec6-e572-4bfd-b49f-46a11154abf0.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/79aa2151-b961-4305-9524-c2016a573af1.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/79aa2151-b961-4305-9524-c2016a573af1.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/79aa2151-b961-4305-9524-c2016a573af1.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/d32c3554-9689-4b7d-a9e8-e1287f4023f2.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/d32c3554-9689-4b7d-a9e8-e1287f4023f2.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/d32c3554-9689-4b7d-a9e8-e1287f4023f2.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/dc2ada19-4a5d-4b0f-bf29-6245aa4c72bb.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/dc2ada19-4a5d-4b0f-bf29-6245aa4c72bb.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/dc2ada19-4a5d-4b0f-bf29-6245aa4c72bb.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/073ce0f6-fb05-48ed-a889-a0eb2b997e15.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/073ce0f6-fb05-48ed-a889-a0eb2b997e15.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/073ce0f6-fb05-48ed-a889-a0eb2b997e15.jpeg"
+        }
+      ],
+      "card_type": "private",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 297913,
+      "name": "Uşaq üçün ��işmə hovuz Intex 56483 Vanna 262х175х56 sm, 770 l, 6 yaşdan",
+      "slugged_name": "ushaq-uchun-shishme-hovuz-intex-56483-vanna-262h175h56-sm-770-l-6-yashdan",
+      "category_id": 647,
+      "category": {
+        "id": 647,
+        "name": "Hovuzlar"
+      },
+      "brand": "Intex",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/297913-95b25aa9952c5936a0b328bd648e2666.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/297913-95b25aa9952c5936a0b328bd648e2666.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/297913-95b25aa9952c5936a0b328bd648e2666.jpg"
+      },
+      "default_offer": {
+        "uuid": "d5070409-a542-4573-a31e-54e979b45310",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 187,
+        "retail_price": 109.95,
+        "seller": {
+          "ext_id": "954659fc-bef1-44ed-ac5f-cea2baaa7ce0",
+          "marketing_name": {
+            "id": 15531,
+            "name": "GO Play"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/739d071d91e56e08e80b196ed3a59872.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 35222969,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.6,
+        "assessment_id": 0,
+        "session_count": 40,
+        "score_count": 12,
+        "review_count": 28
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/297913-95b25aa9952c5936a0b328bd648e2666.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/297913-95b25aa9952c5936a0b328bd648e2666.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/297913-95b25aa9952c5936a0b328bd648e2666.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 297902,
+      "name": "Karkas hovuz Intex 28272 Rectangular Frame Pool, 300х200х75 sm, 3834 l",
+      "slugged_name": "karkas-hovuz-intex-28272-rectangular-frame-pool-300h200h75-sm-3834-l",
+      "category_id": 647,
+      "category": {
+        "id": 647,
+        "name": "Hovuzlar"
+      },
+      "brand": "Intex",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/297902-da18e2ee5983ae519da177d12a96ebc7.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/297902-da18e2ee5983ae519da177d12a96ebc7.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/297902-da18e2ee5983ae519da177d12a96ebc7.jpg"
+      },
+      "default_offer": {
+        "uuid": "f0a5d84f-0d53-4fc4-9adb-fe4d0415725a",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 450,
+        "retail_price": 299.99,
+        "seller": {
+          "ext_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+          "marketing_name": {
+            "id": 3921,
+            "name": "Oyuncaqci"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 34153702,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.8,
+        "assessment_id": 0,
+        "session_count": 155,
+        "score_count": 102,
+        "review_count": 53
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/297902-da18e2ee5983ae519da177d12a96ebc7.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/297902-da18e2ee5983ae519da177d12a96ebc7.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/297902-da18e2ee5983ae519da177d12a96ebc7.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/297902-724791c0dd78d4a5085545513dff5de8.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/297902-724791c0dd78d4a5085545513dff5de8.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/297902-724791c0dd78d4a5085545513dff5de8.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/297902-ed4ac90c457fe78c55ef3f8668afc235.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/297902-ed4ac90c457fe78c55ef3f8668afc235.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/297902-ed4ac90c457fe78c55ef3f8668afc235.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 296888,
+      "name": "Hovuz Intex Rectangular 28270 karkas, düzbucaq, 220x150x60 sm, 1662 l, göy",
+      "slugged_name": "hovuz-intex-rectangular-28270-karkas-duzbucaq-220x150x60-sm-1662-l-goy",
+      "category_id": 647,
+      "category": {
+        "id": 647,
+        "name": "Hovuzlar"
+      },
+      "brand": "Intex",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg"
+      },
+      "default_offer": {
+        "uuid": "c844a028-db26-4c30-9d34-e2d93473ed06",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 0,
+        "retail_price": 199.01,
+        "seller": {
+          "ext_id": "57ffd412-bb1a-4065-834e-73f25eafcbba",
+          "marketing_name": {
+            "id": 3921,
+            "name": "Oyuncaqci"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/def28a613d0d19c8fe8bcf4e298792d7.jpeg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 37700881,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 28,
+        "score_count": 14,
+        "review_count": 14
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/296888-f6b79283b03f834bde4fa2d9d1fcd08f.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/296888-5b4d45172b7878c6106b305dbeb7f110.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/296888-5b4d45172b7878c6106b305dbeb7f110.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/296888-5b4d45172b7878c6106b305dbeb7f110.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/296888-b318317196a9d478b2e4598b89bcde73.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/296888-b318317196a9d478b2e4598b89bcde73.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/296888-b318317196a9d478b2e4598b89bcde73.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 146146,
+      "name": "Hovuz Intex Rectangular Frame 58982/28273, karkas, həcm 7127 l, göy, 450x220x85",
+      "slugged_name": "karkas-hovuz-intex-28273-450x220x84sm",
+      "category_id": 647,
+      "category": {
+        "id": 647,
+        "name": "Hovuzlar"
+      },
+      "brand": "Intex",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg"
+      },
+      "default_offer": {
+        "uuid": "42fd9db9-77a4-499e-a084-aef2ff7f27a0",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 750,
+        "retail_price": 600,
+        "seller": {
+          "ext_id": "953bb82e-847e-402f-9cb8-12ce35982868",
+          "marketing_name": {
+            "id": 6060,
+            "name": "Burgmanshop.az"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4fb026b9058e90ff7dcac68b22b2b963.png"
+          },
+          "vat_payer": false,
+          "rating": 96,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 34153700,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.7,
+        "assessment_id": 0,
+        "session_count": 93,
+        "score_count": 38,
+        "review_count": 55
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/146146-d0c54af9d07c3abd9316749e82eb4ce0.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/146146-68e55af78cabd6f8e3aab1ccc10840cf.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/146146-68e55af78cabd6f8e3aab1ccc10840cf.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/146146-68e55af78cabd6f8e3aab1ccc10840cf.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 46502,
+      "name": "Şişmə hovuz İntex Easy Set 56920/28120 (305x76)",
+      "slugged_name": "intex-28120-hovuz-305-76sm",
+      "category_id": 647,
+      "category": {
+        "id": 647,
+        "name": "Hovuzlar"
+      },
+      "brand": "Intex",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg"
+      },
+      "default_offer": {
+        "uuid": "06a66ac5-b7ea-49b2-9f4e-ad849259fef5",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 200,
+        "retail_price": 113.99,
+        "seller": {
+          "ext_id": "51f808dd-0e35-4c7f-a795-48aed460f1c4",
+          "marketing_name": {
+            "id": 13626,
+            "name": "BREND MALL"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/fad8adf19de380320a3df6a51983d9ff.jpg"
+          },
+          "vat_payer": false,
+          "rating": 98,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 34153701,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.5,
+        "assessment_id": 0,
+        "session_count": 113,
+        "score_count": 56,
+        "review_count": 57
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-c422d5ea39fe1cbd30618921dd33e5e0.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-156987d16e2f04ef6268502fc7c0127d.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-156987d16e2f04ef6268502fc7c0127d.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-156987d16e2f04ef6268502fc7c0127d.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-8cd2eb59ad2d32c345ca861b6e8a5d2d.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-8cd2eb59ad2d32c345ca861b6e8a5d2d.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-8cd2eb59ad2d32c345ca861b6e8a5d2d.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-b32d26d8b2e5214955decc7e05558b5f.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-b32d26d8b2e5214955decc7e05558b5f.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-b32d26d8b2e5214955decc7e05558b5f.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-7d315aea14cf5adf699622c78db690d3.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-7d315aea14cf5adf699622c78db690d3.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-7d315aea14cf5adf699622c78db690d3.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-58934b6ee78df779ac1eca5fac735131.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-58934b6ee78df779ac1eca5fac735131.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-58934b6ee78df779ac1eca5fac735131.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/46502-3354ca8aa8b65706a7d1e02d8f5ad72f.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/46502-3354ca8aa8b65706a7d1e02d8f5ad72f.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/46502-3354ca8aa8b65706a7d1e02d8f5ad72f.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 421401,
+      "name": "Kreatin IronMaxx Creatine Flavoured Zero Tropical 500 q",
+      "slugged_name": "kreatin-ironmaxx-creatine-flavoured-zero-tropical-500-q",
+      "category_id": 575,
+      "category": {
+        "id": 575,
+        "name": "Kreatin"
+      },
+      "brand": "IronMaxx",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/294bc785-529b-467b-9199-88f3c371644d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/294bc785-529b-467b-9199-88f3c371644d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/294bc785-529b-467b-9199-88f3c371644d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "f58c7d0f-004d-4c0e-8597-a47f3436bc51",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 120,
+        "retail_price": 90,
+        "seller": {
+          "ext_id": "301daa7b-a3dd-4855-b48d-0d1cf123c66e",
+          "marketing_name": {
+            "id": 3889,
+            "name": "ironmaxx Idman qidaları"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/d63b6808f19035f26f8e1ac2c0c1764f.jpg"
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3;",
+          "id": 18254757,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.9,
+        "assessment_id": 0,
+        "session_count": 30,
+        "score_count": 18,
+        "review_count": 12
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/294bc785-529b-467b-9199-88f3c371644d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/294bc785-529b-467b-9199-88f3c371644d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/294bc785-529b-467b-9199-88f3c371644d.jpeg"
+        }
+      ],
+      "card_type": "private",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 146564,
+      "name": "Qaçış trenajoru Xiaomi Walking Pad R1 Pro",
+      "slugged_name": "qachish-trenajoru-xiaomi-walking-pad-r1-pro",
+      "category_id": 518,
+      "category": {
+        "id": 518,
+        "name": "Qaçış trenajorları"
+      },
+      "brand": "Xiaomi",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "5bad6289-919e-41b9-80fd-4547729c11f1",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 1699,
+        "retail_price": 1299,
+        "seller": {
+          "ext_id": "f3e16e54-ab91-45ed-8891-a72ca4c8e2e5",
+          "marketing_name": {
+            "id": 15232,
+            "name": "Birmarket Plus"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4d768c0dbc3a8dc90d00e866171d7fff.png"
+          },
+          "vat_payer": true,
+          "rating": 80,
+          "role_name": "FBU"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 20178184,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 2,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.9,
+        "assessment_id": 0,
+        "session_count": 8,
+        "score_count": 4,
+        "review_count": 4
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/38acf482-7e18-4fe7-9666-7c1c42a7528d.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/9f6fd5d6-5a72-44e9-9277-9cb42fbe9399.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/9f6fd5d6-5a72-44e9-9277-9cb42fbe9399.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/9f6fd5d6-5a72-44e9-9277-9cb42fbe9399.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/2a206d67-2a14-4771-9bff-67633959815f.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/2a206d67-2a14-4771-9bff-67633959815f.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/2a206d67-2a14-4771-9bff-67633959815f.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/0d4a8754-b619-43d3-8b77-8c8281af5dee.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/0d4a8754-b619-43d3-8b77-8c8281af5dee.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/0d4a8754-b619-43d3-8b77-8c8281af5dee.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/6112f333-cd8f-4e34-ba9c-ef3941c31ab9.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/6112f333-cd8f-4e34-ba9c-ef3941c31ab9.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/6112f333-cd8f-4e34-ba9c-ef3941c31ab9.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/dc4d331a-3e5b-49f1-9d08-7a3f29785e7d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/dc4d331a-3e5b-49f1-9d08-7a3f29785e7d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/dc4d331a-3e5b-49f1-9d08-7a3f29785e7d.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/23e32916-c85d-4354-9f17-a0e053a5750f.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/23e32916-c85d-4354-9f17-a0e053a5750f.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/23e32916-c85d-4354-9f17-a0e053a5750f.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a907d753-d1a7-40fe-92fc-b1353fa2c2b4.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a907d753-d1a7-40fe-92fc-b1353fa2c2b4.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a907d753-d1a7-40fe-92fc-b1353fa2c2b4.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/a4bbc45c-c5a6-45cf-8817-e4b65714406b.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/a4bbc45c-c5a6-45cf-8817-e4b65714406b.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/a4bbc45c-c5a6-45cf-8817-e4b65714406b.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/938dc785-2027-475d-95f3-d02360dbace4.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/938dc785-2027-475d-95f3-d02360dbace4.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/938dc785-2027-475d-95f3-d02360dbace4.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/20e9a6e0-ddb7-4faf-b3ff-10eb4845076b.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/20e9a6e0-ddb7-4faf-b3ff-10eb4845076b.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/20e9a6e0-ddb7-4faf-b3ff-10eb4845076b.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 430849,
+      "name": "Qaçış trenajoru Xiaomi King Smith Treadmill Walkingpad R2 (TRR2FB)",
+      "slugged_name": "qachish-trenajoru-xiaomi-king-smith-treadmill-walkingpad-r2-trr2fb",
+      "category_id": 518,
+      "category": {
+        "id": 518,
+        "name": "Qaçış trenajorları"
+      },
+      "brand": "Xiaomi",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/sized/1680/430849-330c4d53e1c3f1992be426c607262ec5.jpg",
+        "medium": "https://strgimgr.umico.az/sized/840/430849-330c4d53e1c3f1992be426c607262ec5.jpg",
+        "small": "https://strgimgr.umico.az/sized/280/430849-330c4d53e1c3f1992be426c607262ec5.jpg"
+      },
+      "default_offer": {
+        "uuid": "1e9e3dc7-5e1f-4fb7-a776-53afb717b5d8",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 2014.99,
+        "retail_price": 1414.99,
+        "seller": {
+          "ext_id": "08efecf5-1ebd-4308-83d1-90556dd64be9",
+          "marketing_name": {
+            "id": 2189,
+            "name": "Texno Home"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/0d9a9e502354fbf0c8dc605bb52591e9.jpg"
+          },
+          "vat_payer": true,
+          "rating": 98,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "2026-10-10T00:00:00.000Z",
+        "discount_effective_end_date": "2026-10-10T23:59:59.999Z",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 18410041,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 5,
+        "score_count": 2,
+        "review_count": 3
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-330c4d53e1c3f1992be426c607262ec5.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-330c4d53e1c3f1992be426c607262ec5.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-330c4d53e1c3f1992be426c607262ec5.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-77bb706a730f23612359f92f27ebc4e4.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-77bb706a730f23612359f92f27ebc4e4.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-77bb706a730f23612359f92f27ebc4e4.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-c8c5754047bb9a93060aba0091a143ba.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-c8c5754047bb9a93060aba0091a143ba.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-c8c5754047bb9a93060aba0091a143ba.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-84dc4270037dc10364a1bd75cde6b2e2.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-84dc4270037dc10364a1bd75cde6b2e2.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-84dc4270037dc10364a1bd75cde6b2e2.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-2eae545ffe0de744644a5df5fe31580a.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-2eae545ffe0de744644a5df5fe31580a.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-2eae545ffe0de744644a5df5fe31580a.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-a54c82925f59de4ead0fb2bcce91385a.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-a54c82925f59de4ead0fb2bcce91385a.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-a54c82925f59de4ead0fb2bcce91385a.jpg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/sized/1680/430849-af099c6a6cc56a3187469e95169e73b2.jpg",
+          "medium": "https://strgimgr.umico.az/sized/840/430849-af099c6a6cc56a3187469e95169e73b2.jpg",
+          "small": "https://strgimgr.umico.az/sized/280/430849-af099c6a6cc56a3187469e95169e73b2.jpg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 1357472,
+      "name": "Plastik Boru üçün qaynaq aparatı CANDAN CM-03.",
+      "slugged_name": "plastik-boru-uchun-qaynaq-aparati-candan-cm-03-ez0000004687",
+      "category_id": 2719,
+      "category": {
+        "id": 2719,
+        "name": "Qaynaq avadanlığı"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg"
+      },
+      "default_offer": {
+        "uuid": "a780448a-2c51-4b49-ab65-eda9d38b4adf",
+        "installment_enabled": true,
+        "max_installment_months": 18,
+        "product_offer_labels": [],
+        "old_price": 0,
+        "retail_price": 68.95,
+        "seller": {
+          "ext_id": "67fb1707-0202-49ce-a685-263e60969d78",
+          "marketing_name": {
+            "id": 15423,
+            "name": "Lolitta luxe"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 99,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 21227891,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 3.3,
+        "assessment_id": 0,
+        "session_count": 16,
+        "score_count": 5,
+        "review_count": 11
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/444e3a0d-918d-409e-9a50-75ff975a0c29.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/c5686a56-fc4f-4eb6-8b73-1287d46f14d4.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/c5686a56-fc4f-4eb6-8b73-1287d46f14d4.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/c5686a56-fc4f-4eb6-8b73-1287d46f14d4.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": 2610772,
+      "name": "Şin Rovelo RHP780 175/70R13 82T",
+      "slugged_name": "shin-rovelo-rhp780-175-70r13-82t",
+      "category_id": 1944,
+      "category": {
+        "id": 1944,
+        "name": "Şinlər"
+      },
+      "brand": "Rovelo",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg"
+      },
+      "default_offer": {
+        "uuid": "132b9dd6-b196-4657-999d-ab536396fd01",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 80,
+        "retail_price": 55.99,
+        "seller": {
+          "ext_id": "f3e16e54-ab91-45ed-8891-a72ca4c8e2e5",
+          "marketing_name": {
+            "id": 15232,
+            "name": "Birmarket Plus"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/4d768c0dbc3a8dc90d00e866171d7fff.png"
+          },
+          "vat_payer": true,
+          "rating": 80,
+          "role_name": "FBU"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 38510790,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        },
+        {
+          "color": "4A69FF",
+          "id": 38048305,
+          "image_url": "",
+          "label_id": 5,
+          "name": "Эксклюзив",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Eksklüziv"
+        }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 19,
+        "score_count": 14,
+        "review_count": 5
+      },
+      "is_bulk_heavy": true,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/5694fe1f-6996-4dab-9dbd-d7986a1e9a00.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/d5716980-f319-420e-a2c1-8a7c0a1e6e61.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/d5716980-f319-420e-a2c1-8a7c0a1e6e61.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/d5716980-f319-420e-a2c1-8a7c0a1e6e61.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/e58e1362-912a-4d3a-987c-67f14d5e99fd.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/e58e1362-912a-4d3a-987c-67f14d5e99fd.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/e58e1362-912a-4d3a-987c-67f14d5e99fd.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12"
+        }
+      ]
+    },
+    {
+      "id": 1969990,
+      "name": "Hava qabarcıqlı plyonka BPI3, 50 sm x 100 m",
+      "slugged_name": "qablashdirma-ve-markalanma-hava-qabarciqli-polietilen-50-sm-x-100-m-bpi3",
+      "category_id": 5490,
+      "category": {
+        "id": 5490,
+        "name": "Hava qabarcıqlı polietilen selofan"
+      },
+      "brand": "No Brand",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg"
+      },
+      "default_offer": {
+        "uuid": "1f6f35e8-0495-4fb5-8ee9-6c8adeda7e33",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 0,
+        "retail_price": 15.9,
+        "seller": {
+          "ext_id": "6945178b-6d67-4c2e-bd86-5bf053513d64",
+          "marketing_name": {
+            "id": 12346,
+            "name": "Bakı Polimer Premium"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": true,
+          "rating": 80,
+          "role_name": "FBU"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 40889371,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 0,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 5,
+        "assessment_id": 0,
+        "session_count": 7,
+        "score_count": 3,
+        "review_count": 4
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/fe3b38a4-c48e-4eb3-bc39-ea41cea5f30d.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-12"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-12",
+          "price": 3.99
+        }
+      ]
+    },
+    {
+      "id": 2247286,
+      "name": "Kondisioner Chigo CS-25V3G-B169AM2D, 9000 BTU, İnverter, R32",
+      "slugged_name": "kondisioner-chigo-cs-25v3g-b169am2d",
+      "category_id": 126,
+      "category": {
+        "id": 126,
+        "name": "Kondisionerlər"
+      },
+      "brand": "Chigo",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg"
+      },
+      "default_offer": {
+        "uuid": "ed31e28d-0150-4c49-9260-57826f1c3c3f",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 649,
+        "retail_price": 499.9,
+        "seller": {
+          "ext_id": "2c2e2738-1060-4bb7-913c-2290ff24d410",
+          "marketing_name": {
+            "id": 5892,
+            "name": "Texno Home Plus"
+          },
+          "logo": {
+            "thumbnail": "https://storage.umico.az/cpcustomerprod01/280cb0089bb8473e625894884badbe96.jpg"
+          },
+          "vat_payer": true,
+          "rating": 94,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3;",
+          "id": 31974843,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 0,
+        "assessment_id": 0,
+        "session_count": 0
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/e8116c86-4533-4aec-8f64-637ea70277ef.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/f0e48023-b688-44f5-8be1-3c8652feba82.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/f0e48023-b688-44f5-8be1-3c8652feba82.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/f0e48023-b688-44f5-8be1-3c8652feba82.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/8c64b1eb-cef1-4cea-bb94-82bd242dc099.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/8c64b1eb-cef1-4cea-bb94-82bd242dc099.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/8c64b1eb-cef1-4cea-bb94-82bd242dc099.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/7b759df1-b270-4c2b-b629-3d5e92b1be43.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/7b759df1-b270-4c2b-b629-3d5e92b1be43.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/7b759df1-b270-4c2b-b629-3d5e92b1be43.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/160924cb-03e8-4495-a4fc-6ace8454e914.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/160924cb-03e8-4495-a4fc-6ace8454e914.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/160924cb-03e8-4495-a4fc-6ace8454e914.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-14"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "id": 428423,
+      "name": "Kondisioner Midea MSAF-09HRN8-I",
+      "slugged_name": "kondisioner-midea-msaf-09hrn8-i",
+      "category_id": 126,
+      "category": {
+        "id": 126,
+        "name": "Kondisionerlər"
+      },
+      "brand": "Midea",
+      "status": "active",
+      "main_img": {
+        "big": "https://strgimgr.umico.az/img/product/1680/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg",
+        "medium": "https://strgimgr.umico.az/img/product/840/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg",
+        "small": "https://strgimgr.umico.az/img/product/280/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg"
+      },
+      "default_offer": {
+        "uuid": "a9f9f490-9169-419f-b1e2-26c79ecd97c4",
+        "installment_enabled": true,
+        "max_installment_months": 3,
+        "product_offer_labels": [],
+        "old_price": 999.99,
+        "retail_price": 589.99,
+        "seller": {
+          "ext_id": "85969687-7904-4723-95f5-b6654f7882a2",
+          "marketing_name": {
+            "id": 16765,
+            "name": "LuxTech.az"
+          },
+          "logo": {
+            "thumbnail": ""
+          },
+          "vat_payer": false,
+          "rating": 80,
+          "role_name": "3P"
+        },
+        "show_stock_qty_threshold": 0,
+        "discount_effective_start_date": "",
+        "discount_effective_end_date": "",
+        "qty": 0
+      },
+      "min_qty": 1,
+      "preorder_available": false,
+      "product_labels": [
+        {
+          "color": "7C62E3",
+          "id": 18207170,
+          "image_url": "",
+          "label_id": 3,
+          "name": "Топ продаж",
+          "position": 1,
+          "rule_type": "parameters",
+          "show_in_see_also_products": false,
+          "text": "Ən çox satılan"
+        }
+      ],
+      "ratings": {
+        "rating_value": 4.4,
+        "assessment_id": 0,
+        "session_count": 12,
+        "score_count": 4,
+        "review_count": 8
+      },
+      "is_bulk_heavy": false,
+      "images": [
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/67b294dc-dbf4-430a-bb66-d69882353edc.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/c9b9ebdc-3b35-4e52-af66-a14f8d91de0f.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/c9b9ebdc-3b35-4e52-af66-a14f8d91de0f.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/c9b9ebdc-3b35-4e52-af66-a14f8d91de0f.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/1516c391-0a34-4db8-82e7-04ed8c814904.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/1516c391-0a34-4db8-82e7-04ed8c814904.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/1516c391-0a34-4db8-82e7-04ed8c814904.jpeg"
+        },
+        {
+          "big": "https://strgimgr.umico.az/img/product/1680/c3a58c38-40d2-4610-bc9e-8ff17b8f9461.jpeg",
+          "medium": "https://strgimgr.umico.az/img/product/840/c3a58c38-40d2-4610-bc9e-8ff17b8f9461.jpeg",
+          "small": "https://strgimgr.umico.az/img/product/280/c3a58c38-40d2-4610-bc9e-8ff17b8f9461.jpeg"
+        }
+      ],
+      "card_type": "public",
+      "delivery_methods": [
+        {
+          "code": "PUDO",
+          "name": "Təhvil məntəqəsindən özün götür",
+          "date": "2026-10-13"
+        },
+        {
+          "code": "COURIER_STANDARD",
+          "name": "Kuryerlə çatdırılma",
+          "date": "2026-10-13"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "total": 185
+  }
+}
